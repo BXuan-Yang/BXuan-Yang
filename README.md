@@ -1,16 +1,17 @@
-### Hi there 👋
+## ⭐你好，欢迎来到 BXuan-Yang 的 ✨Github个人空间✨！👋
 
+- 📚 本科就读于广东工业大学
+- 🙋‍♂️ 后端开发 | Java | Go
+- 💬 微信：ybx18740101（请备注来由）
+- 📫 微信公众号：BXuan随笔
+- 🚀 视频：<a href="https://space.bilibili.com/287056650" target="_blank">bilibili：BXuan_Yang</a>
+- 📗 知识库：<a href="https://www.yuque.com/bxuan" target="_blank">语雀花园：BXuan</a>
+
+创建至今，已有![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)位用户访问❤
+
+## ⭐今年汇总：
+<span><img src="https://github-readme-stats.vercel.app/api?username=BXuan-Yang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" height=145/></span>
 <!--
-**BXuan-Yang/BXuan-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+常用语言标签
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BXuan-Yang&layout=compact&theme=tokyonight" height=145/></span>
 -->
